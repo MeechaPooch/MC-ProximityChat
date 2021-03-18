@@ -1,0 +1,7 @@
+name: Proximity Chat Standaside
+version: ${project.version}
+main: com.mooo.pooch.proximitychatstandaside.ProximityChatStandaside
+api-version: 1.15
+prefix: Poochat
+authors: [ MeechaPooch ]
+description: Minecraft Proximity Chat 
