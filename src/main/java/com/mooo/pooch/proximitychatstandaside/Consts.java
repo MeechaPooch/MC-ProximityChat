@@ -10,6 +10,7 @@ public class Consts {
     public static int SERVER_VOIP_PORT = 9720;
     public static int CLIENT_VOIP_PORT = 9720;
 
+    public static int bufferByteLength = 10000;
     public static AudioFormat defaultAudioFormat = new Supplier<AudioFormat>() {
         @Override
         public AudioFormat get() {
